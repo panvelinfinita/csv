@@ -1,0 +1,38 @@
+.summary-card {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 20px;
+    color: #173c8e;
+    margin-bottom: 20px;
+}
+
+.card-content {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.metric {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.metric-label {
+    font-size: 14px;
+    color: #333;
+}
+
+.metric-value {
+    font-size: 32px;
+    font-weight: bold;
+    color: #173c8e;
+}
