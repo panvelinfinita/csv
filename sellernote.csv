@@ -1,33 +1,34 @@
-Sellers,Nota Total.,Nota Pedidos.,Nota Atendimentos.,Soma de Novo,Soma de Pago,Soma de Atraso no faturamento,Soma de Faturado,Soma de Atraso na expedição,Soma de Enviado,Soma de Enviado com atraso,Soma de Atrasado,Soma de Entregue,Soma de Entregue com atraso,Soma de Devolvido,Soma de Cancelado,Soma de Total Pedidos Aprovados,Total Atendimentos,Atendimentos atrasados,Soma de Não aprovado
-OCEANE,4.25,5,0,0,1,0,0,0,7,0,0,0,0,0,0,8,0,0,10
-Sense,4.25,5,0,0,0,0,2,0,3,0,0,0,0,0,0,3,0,0,0
-Principia,4.25,5,0,0,5,0,0,0,11,0,0,1,0,0,0,17,0,0,7
-ATLHETICA NUTRITION,4.25,5,0,0,2,0,0,0,2,0,0,0,0,0,0,4,0,0,0
-Vitamine-se,4.25,5,0,0,0,0,0,0,10,0,0,0,0,0,0,10,0,0,0
-Black Skull,4.25,5,0,0,0,0,0,0,14,0,0,0,0,0,0,14,0,0,6
-Prime,4.25,5,0,0,0,0,2,0,2,0,0,0,0,0,0,2,0,0,2
-Central Nutrition,4.25,5,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Sanavita,4.25,5,0,0,0,0,1,0,2,0,0,0,0,0,0,2,0,0,0
-Integralmédica,4.25,5,0,0,10,0,0,0,6,0,0,0,0,0,0,16,0,0,3
-Super Saudável Shopping,4.25,5,0,0,1,0,1,0,5,0,0,0,0,0,0,6,0,0,0
-Multilaser,4.25,5,0,0,0,0,0,0,3,0,0,4,0,0,0,7,0,0,7
-Reabilit Mais,4.25,5,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0
-Nutraceutica Praiamar,4.25,5,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Mundo Verde,4.25,5,0,0,3,0,0,0,12,0,0,0,0,0,0,15,0,0,2
-Época Cosméticos,4.21828358208955,4.96268656716418,0,0,24,1,0,0,67,0,0,42,0,0,0,134,0,0,156
-Amobeleza,4.20114942528736,4.94252873563218,0,0,39,0,0,0,111,0,0,22,0,0,2,174,0,0,66
-Kassio Perfumaria,4.17410714285714,4.91071428571429,0,0,0,0,14,1,55,0,0,0,0,0,0,56,0,0,41
-Miligrama,4.15409887359199,4.62765957446809,1.47058823529412,0,45,2,48,11,126,0,1,3,0,0,0,188,17,12,51
-Bisturi,4.08653846153846,4.80769230769231,0,0,2,1,0,0,21,0,0,2,0,0,0,26,0,0,5
-Aaz Perfumes,4.0375,4.75,0,0,3,0,0,0,16,0,1,0,0,0,0,20,0,0,25
-Aroom Aromaterapia,3.94642857142857,4.64285714285714,0,0,4,0,0,0,9,0,1,0,0,0,0,14,0,0,2
-Nutramed,3.92307692307692,4.61538461538462,0,0,1,0,0,0,11,0,1,0,0,0,0,13,0,0,0
-Lojas Rede,3.38671875,3.984375,0,0,24,4,3,9,26,0,0,1,0,0,0,64,0,0,26
-Starhouse Megastore,3.1875,3.75,0,0,0,0,0,0,3,0,0,0,0,0,1,4,0,0,0
-Dux Nutrition Lab,1.41666666666667,1.66666666666667,0,0,9,17,0,0,0,0,0,0,0,0,1,27,0,0,4
-Viking Brand,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Herbia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Supérbia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Dermadoctor,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
-Clinica A Sua Essencia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Total Marketplace,4.0132175761871,,,0,154,25,65,23,457,0,4,70,0,0,4,737,17,12,378
+Sellers,Nota Total.,Nota Pedidos.,Nota Atendimentos.,Soma de Novo,Soma de Pago,Soma de Atraso no faturamento,Soma de Faturado,Soma de Atraso na expedição,Soma de Enviado,Soma de Enviado com atraso,Soma de Atrasado,Soma de Entregue,Soma de Entregue com atraso,Soma de Devolvido,Soma de Cancelado,Soma de Total Pedidos Aprovados,Total Atendimentos,Atendimentos atrasados,Soma de Não aprovado								
+Super Saudável Shopping,5,5,5,0,0,0,2,0,6,0,0,0,0,0,0,6,1,0,0								
+Mundo Verde,5,5,5,0,2,0,0,0,16,0,0,1,0,0,0,19,2,0,2								
+Sense,4.89285714285714,5,4.28571428571429,0,0,0,0,0,6,0,0,0,0,0,0,6,7,1,6								
+Integralmédica,4.7875,4.75,5,0,7,1,0,0,12,0,0,0,0,0,0,20,1,0,4								
+Amobeleza,4.64817073170732,4.9390243902439,3,0,53,0,0,0,131,0,0,59,0,0,3,246,5,2,88								
+Época Cosméticos,4.63888888888889,4.86928104575163,3.33333333333333,0,16,2,1,0,69,1,0,64,0,0,1,153,6,2,197								
+Bisturi,4.63815789473684,4.86842105263158,3.33333333333333,0,9,0,0,0,24,0,1,4,0,0,0,38,6,2,6								
+Kassio Perfumaria,4.56514084507042,4.92957746478873,2.5,0,0,0,20,1,70,0,0,0,0,0,0,71,2,1,65								
+Central Nutrition,4.25,5,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0								
+Principia,4.25,5,0,0,3,0,0,0,16,0,0,1,0,0,0,20,0,0,7								
+Black Skull,4.25,5,0,0,0,0,0,0,19,0,0,1,0,0,0,20,0,0,6								
+Reabilit Mais,4.25,5,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0								
+Vitamine-se,4.25,5,0,0,1,0,0,0,10,0,0,0,0,0,0,11,1,1,0								
+OCEANE,4.25,5,0,0,2,0,0,0,8,0,0,0,0,0,0,10,1,1,10								
+Prime,4.25,5,0,0,0,0,2,0,2,0,0,1,0,0,0,3,0,0,2								
+Multilaser,4.25,5,0,0,0,0,0,0,3,0,0,5,0,0,0,8,2,2,7								
+Nutraceutica Praiamar,4.25,5,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0								
+Starhouse Megastore,4.15,4,5,0,0,0,0,0,4,0,0,0,0,0,1,5,2,0,0								
+Aaz Perfumes,4.07065217391304,4.34782608695652,2.5,0,5,0,0,0,14,0,3,1,0,0,0,23,4,2,53								
+Aroom Aromaterapia,4,4.70588235294118,0,0,1,0,0,0,15,0,1,0,0,0,0,17,0,0,2								
+Nutramed,3.94642857142857,4.64285714285714,0,0,1,0,0,0,12,0,1,0,0,0,0,14,0,0,0								
+Miligrama,3.91752577319588,4.02061855670103,3.33333333333333,0,18,2,101,26,117,9,1,21,0,0,0,194,15,5,64								
+Lojas Rede,3.70384615384615,3.76923076923077,3.33333333333333,0,12,0,11,3,36,13,0,1,0,0,0,65,6,2,28								
+ATLHETICA NUTRITION,3.5625,3.75,2.5,0,0,0,0,0,3,0,1,0,0,0,0,4,2,1,0								
+Sanavita,2.83333333333333,3.33333333333333,0,0,0,0,0,1,2,0,0,0,0,0,0,3,1,1,0								
+Dux Nutrition Lab,1.86140819964349,1.51515151515152,3.82352941176471,0,10,22,0,0,0,0,0,0,0,0,1,33,17,4,8								
+Dermadoctor,1.41666666666667,1.66666666666667,0,0,1,0,0,2,0,0,0,0,0,0,0,3,0,0,0								
+Supérbia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0								
+Viking Brand,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0								
+Clinica A Sua Essencia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0								
+Herbia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0								
+Sellers,Nota Total.,Nota Pedidos.,Nota Atendimentos.,Soma de Novo,Soma de Pago,Soma de Atraso no faturamento,Soma de Faturado,Soma de Atraso na expedição,Soma de Enviado,Soma de Enviado com atraso,Soma de Atrasado,Soma de Entregue,Soma de Entregue com atraso,Soma de Devolvido,Soma de Cancelado,Soma de Total Pedidos Aprovados,Total Atendimentos,Atendimentos atrasados,Soma de Não aprovado								
+
